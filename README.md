@@ -29,7 +29,7 @@ git clone https://github.com/mmkuznecov/objects_counting_from_clever.git
 
 так и в динамическом полёте.
 
-<img src="Gifs/from_copter.gif" width="50%">
+<img src="Gifs/giff.gif" width="50%">
 
 ## Возможные трудности
 
