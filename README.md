@@ -24,11 +24,11 @@ git clone https://github.com/mmkuznecov/objects_counting_from_clever.git
 
 Система может быть адаптирована для разных условий, съёмка может производиться как из статичного положения,
 
-<img src="Gifs/people_static.gif" width="70%">
+<img src="images/people_static.gif" width="70%">
 
 так и в динамическом полёте.
 
-<img src="Gifs/giff.gif" width="50%">
+<img src="images/giff.gif" width="50%">
 
 ## Использование
 
@@ -53,4 +53,4 @@ sofa, train, tvmonitor
 
 Итогом работы программы будет записанное видео с метками, отмечающими распознавание объектов и их номер, а также .png изображение, на котором показана информация о времени записи видео, количестве распознанных объектов в разное время.
 
-<img src="Gifs/op.png" width="50%">
+<img src="images/op.png" width="50%">
