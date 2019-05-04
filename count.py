@@ -44,8 +44,7 @@ CLASSES = ["background", "aeroplane", "bicycle", "bird", "boat",
 print("[INFO] loading model...")
 net = cv2.dnn.readNetFromCaffe('MobileNetSSD_deploy.prototxt', 'MobileNetSSD_deploy.caffemodel')
 
-#vs = VideoStream(src='http://192.168.11.1:8080/snapshot?topic=/main_camera/image_raw').start()
-vs = VideoStream(src='http://62.117.66.226:5118/mjpg/video.mjpg?fps=4&resolution=800x600').start()
+vs = VideoStream(src='http://192.168.11.1:8080/snapshot?topic=/main_camera/image_raw').start()
 
 writer = None
 
